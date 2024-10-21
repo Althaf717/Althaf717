@@ -32,21 +32,9 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- First Image on the Left -->
-  <p style="flex: 1;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=althaf717&show_icons=true&locale=en" alt="althaf717" />
-  </p>
 
-  <!-- Second Image on the Right -->
-  <p style="flex: 1; text-align: right;">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=althaf717&" alt="althaf717" />
-  </p>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=althaf717&show_icons=true&locale=en&layout=compact" alt="althaf717" /></p>
 
-<!-- Third Image Centered at the Bottom -->
-<div style="text-align: center; margin-top: 20px;">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=althaf717&show_icons=true&locale=en&layout=compact" alt="althaf717" />
-  </p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=althaf717&show_icons=true&locale=en" alt="althaf717" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=althaf717&" alt="althaf717" /></p>
